@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a6e27b4d919883340811a28a5b1f768b
+timeCreated: 1556387019
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DOLOGAN bold
+  fontNames:
+  - DOLOGAN bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
